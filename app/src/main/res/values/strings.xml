@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SneakersInd</string>
+    <string name="shoes_name">shoes_name</string>
+    <string name="shoes_detail">Detail :</string>
+    <string name="buy">Beli</string>
+    <string name="price">Harga : Rp</string>
+    <string name="value_harga">0000</string>
+    <string name="note">Note :</string>
+    <string name="value_note">Sepatu yang kami jual adalah kualitas Original</string>
+    <string name="share">share</string>
+    <string name="dialog_success">Success , Terimakasih dan juga atas partisipasi dana lebih nya</string>
+    <string name="dialog_success2">Success ,Terimakasih</string>
+    <string name="dialog_mines">Maaf , Nominal yang anda  masukan Kurang!</string>
+    <string name="size">Size :</string>
+    <string name="value_size">38 , 39 , 40 , 41 , 42</string>
+    <string name="email_profile">afrnsyhfdz@dicoding.com</string>
+    <string name="name_profile">Hafidz Afriansyah</string>
+    <string name="warna">Warna :</string>
+    <string name="value_warna">warna</string>
+    <string name="dialog_empty">Masukan Nominal!</string>
+</resources>
